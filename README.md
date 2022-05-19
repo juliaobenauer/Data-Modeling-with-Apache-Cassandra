@@ -35,5 +35,5 @@ Modeling your NoSQL database or Apache Cassandra database
 2.	Make necessary edits to Part II of the notebook template to include Apache Cassandra CREATE and INSERT statements to load processed records into relevant tables in your data model
 3.	Test by running SELECT statements after running the queries on your database
 
-### Disclaimer
+## Disclaimer
 Data and project information were kindly provided by [Udacity](https://www.udacity.com/).
